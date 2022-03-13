@@ -1,5 +1,4 @@
 # SYSTEM INFO
-### ------------
 
 ## Sistem Bilgisi:
 
@@ -9,20 +8,22 @@
 
 ### Game/src/LotteryManager.h
 
-###	enum LotteryConfig
-###		{
-###			LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
-###			LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
-###			LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
-###			LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
-###		};
+####	enum LotteryConfig
+####		{
+####			LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
+####			LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
+####			LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
+####			LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
+####		};
 
 ### Sistem amacı: 
 ### CSGO Tarzı rulet dönderir. Renklere basıma göre sistem otomatikmen epin 2 katını veya 14 katını verir.
 ### Sistemi kendi serverimde kullandım problemi yoktur.
 ### Sıfırdan yazımı bana aittir.
 
-![alt text](https://metin2.life/dist/img/Tanitim/metin2life-kumarbaz-modu.jpg)
+<div align="center">
+    <img src="/image/metin2life-kumarbaz-modu.jpg"></img> 
+</div>
 
 ## * Project Owner:
 ##   Fatih Şahin
@@ -51,7 +52,9 @@
 ### I used the system on my own server, there is no problem.
 ### Writing from scratch is mine.
 
-![alt text](https://metin2.life/dist/img/Tanitim/metin2life-kumarbaz-modu.jpg)
+<div align="center">
+    <img src="/image/metin2life-kumarbaz-modu.jpg"></img> 
+</div>
 
 ## * Project Owner:
 ##   Fatih Şahin
