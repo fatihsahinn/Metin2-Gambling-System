@@ -2,10 +2,10 @@
 
 ## More İmportant:
 
-### Python fRaC_Fa4AP3cA1 replace -> net
-### Python IfB_R2AcVfAPa1c replace -> item
-### Python rRCvfR4c_fL4e replace -> chat
-### Python Dr1vC_kQfStEqAvCx replace -> player
+#### Python fRaC_Fa4AP3cA1 değiştir -> net
+#### Python IfB_R2AcVfAPa1c değiştir -> item
+#### Python rRCvfR4c_fL4e değiştir -> chat
+#### Python Dr1vC_kQfStEqAvCx değiştir -> player
 
 ## Sistem Bilgisi:
 
@@ -42,10 +42,10 @@
 
 ## More İmportant:
 
-### Python fRaC_Fa4AP3cA1 replace -> net
-### Python IfB_R2AcVfAPa1c replace -> item
-### Python rRCvfR4c_fL4e replace -> chat
-### Python Dr1vC_kQfStEqAvCx replace -> player
+#### Python fRaC_Fa4AP3cA1 replace -> net
+#### Python IfB_R2AcVfAPa1c replace -> item
+#### Python rRCvfR4c_fL4e replace -> chat
+#### Python Dr1vC_kQfStEqAvCx replace -> player
 
 ## #define ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
 
