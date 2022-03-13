@@ -11,7 +11,7 @@ m_iMallLoadTime = 0;
 
 DWORD CHARACTER::GetNextExp() const
 
-// Add Below
+// Add add to end of this function : DWORD CHARACTER::GetNextExp() const
 #ifdef ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
 DWORD CHARACTER::GetDragonCoin()
 {
