@@ -1,5 +1,12 @@
 # SYSTEM INFO
 
+## More İmportant:
+
+### Python fRaC_Fa4AP3cA1 replace -> net
+### Python IfB_R2AcVfAPa1c replace -> item
+### Python rRCvfR4c_fL4e replace -> chat
+### Python Dr1vC_kQfStEqAvCx replace -> player
+
 ## Sistem Bilgisi:
 
 ## #define ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
@@ -32,6 +39,13 @@
 # SYSTEM INFO
 
 ## System Information:
+
+## More İmportant:
+
+### Python fRaC_Fa4AP3cA1 replace -> net
+### Python IfB_R2AcVfAPa1c replace -> item
+### Python rRCvfR4c_fL4e replace -> chat
+### Python Dr1vC_kQfStEqAvCx replace -> player
 
 ## #define ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
 
