@@ -1,6 +1,6 @@
-# SYSTEM INFO
+# Sistem Bilgisi
 
-## More İmportant:
+## Önemli:
 
 #### Python fRaC_Fa4AP3cA1 değiştir -> net
 #### Python IfB_R2AcVfAPa1c değiştir -> item
@@ -34,7 +34,7 @@
 
 ### * Project Owner:
 ###   Fatih Şahin
-###   Sistem ile ilgili eksik yoksa destek vermiyorum.
+###   Sistem ile ilgili destek vermiyorum.
 
 # SYSTEM INFO
 
@@ -72,5 +72,5 @@
 
 ### * Project Owner:
 ###   Fatih Şahin
-###   I do not provide support if there is no deficiency in the system.
+###   I do not support the system.
 
