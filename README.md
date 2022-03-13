@@ -8,13 +8,13 @@
 
 ### Game/src/LotteryManager.h
 
-####	enum LotteryConfig
-####		{
-####			LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
-####			LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
-####			LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
-####			LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
-####		};
+####    enum LotteryConfig
+####        {
+####            LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
+####            LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
+####            LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
+####            LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
+####        };
 
 ### Sistem amacı: 
 ### CSGO Tarzı rulet dönderir. Renklere basıma göre sistem otomatikmen epin 2 katını veya 14 katını verir.
@@ -25,12 +25,12 @@
     <img src="/image/metin2life-kumarbaz-modu.jpg"></img> 
 </div>
 
-## * Project Owner:
-##   Fatih Şahin
-##   Sistem ile ilgili eksik yoksa destek vermiyorum.
+### * Project Owner:
+###   Fatih Şahin
+###   Sistem ile ilgili eksik yoksa destek vermiyorum.
 
-# -- English Presentation
-## ------------
+# SYSTEM INFO
+
 ## System Information:
 
 ## #define ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
@@ -39,13 +39,13 @@
 
 ### Game/src/LotteryManager.h
 
-###	enum LotteryConfig
-###		{
-###			LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
-###			LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
-###			LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
-###			LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
-###		};
+####    enum LotteryConfig
+####        {
+####            LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
+####            LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
+####            LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
+####            LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
+####        };
 
 ### System purpose:
 ### CSGO Style roulette spins. Depending on the color printing, the system automatically gives epin 2 times or 14 times.
@@ -56,7 +56,7 @@
     <img src="/image/metin2life-kumarbaz-modu.jpg"></img> 
 </div>
 
-## * Project Owner:
-##   Fatih Şahin
-##   I do not provide support if there is no deficiency in the system.
+### * Project Owner:
+###   Fatih Şahin
+###   I do not provide support if there is no deficiency in the system.
 
