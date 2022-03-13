@@ -41,10 +41,10 @@
 
 ####    enum LotteryConfig
 ####        {
-####            LOTTERY_MAP_INDEX	= 200, // Oynanacak map indexi
-####            LOTTERY_BASE_X	= 1041, // Işınlanacak x konumu
-####            LOTTERY_BASE_Y	= 97, // Işınlanacak y konumu
-####            LOTTERY_ROLL_TIME	= 60, // Kaç saniyede bir dönsün
+####            LOTTERY_MAP_INDEX	= 200, // Map index to play lottery
+####            LOTTERY_BASE_X	= 1041, // x position to teleport
+####            LOTTERY_BASE_Y	= 97, // y position to teleport
+####            LOTTERY_ROLL_TIME	= 60, // How many seconds to turn
 ####        };
 
 ### System purpose:
