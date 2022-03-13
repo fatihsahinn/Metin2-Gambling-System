@@ -19,3 +19,13 @@ void	SetSafeboxLoadTime() { m_iSafeboxLoadTime = thecore_pulse(); }
 		void SetLastLotteryTime() { m_iLotteryLoadTime = thecore_pulse(); }
 #endif
 
+// Find
+
+int				GetSyncHackCount() { return m_iSyncHackCount; }
+
+// Add Below
+#ifdef ENABLE_FATIH_SAHIN_LOTTERY_SYSTEM
+public:
+	DWORD			GetDragonCoin();
+	void			SetDragonCoin(DWORD amount);
+#endif
